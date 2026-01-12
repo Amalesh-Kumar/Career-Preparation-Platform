@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pyresparser
+spacy
+sentence-transformers
+transformers
+torch
+python-multipart
+pydantic
